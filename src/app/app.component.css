@@ -1,0 +1,7 @@
+.contain{
+    display: flex;
+    margin-top: 200px;
+}
+app-search{
+    display: flex;
+}

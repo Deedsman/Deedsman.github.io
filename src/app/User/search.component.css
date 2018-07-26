@@ -1,0 +1,17 @@
+.browser-default{
+
+    position: relative;
+    width: 250px;
+}
+#searchs{
+    width: 500px;
+    margin-left: 100px;
+    margin-right: 20px;
+}
+button{
+    width: 100px;
+    margin-left: 30px;
+}
+.form{
+    display: flex;
+}
