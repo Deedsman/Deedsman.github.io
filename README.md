@@ -1,4 +1,7 @@
-Run  this Deedsman.github.io          https://qgniypjm.github.stackblitz.io/
+
+
+1. Run this links      https://stackblitz.com/github/Deedsman/Deedsman.github.io
+2. Than in the upper right corner click "Open in New Window live"    or      Run  this Deedsman.github.io          https://qgniypjm.github.stackblitz.io/
 
 # AngulSearch
 
